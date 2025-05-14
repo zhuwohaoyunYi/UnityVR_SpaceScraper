@@ -1,6 +1,7 @@
 
 # UnityVR_SpaceScraper
 ## 😁 WY的毕设项目
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/zhuwohaoyunYi/UnityVR_SpaceScraper)
 
 在这个综合性的虚拟现实开发项目中，我们的目标是使用 Unity 和 XR Interaction Toolkit 创建并发布一个叙事驱动的逃脱游戏，该游戏将确保与各种虚拟现实头显的兼容性。
 
